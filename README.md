@@ -595,7 +595,7 @@ Contributions are welcome! Please follow these steps:
 
 ### ⭐ Star this repository if you find it helpful!
 
-Made with ❤️ by the Sanjeevani Team
+Made with ❤️ using Java
 
 </div>
 
