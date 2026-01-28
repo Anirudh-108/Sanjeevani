@@ -482,24 +482,6 @@ Sanjeevani/
 
 ---
 
-## 📸 Screenshots
-
-> **Note:** Add screenshots of your application here
-
-### Login Screen
-![Login Screen](screenshots/login.png)
-
-### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
-
-### Doctor Panel
-![Doctor Panel](screenshots/doctor-panel.png)
-
-### Patient Registration
-![Patient Registration](screenshots/patient-registration.png)
-
----
-
 ## 🔧 Troubleshooting
 
 ### Common Issues
@@ -595,50 +577,9 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
+## 👨‍💻 Authors
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2024 Sanjeevani Hospital Management System
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
-
-## 👨‍💻 Authors & Contributors
-
-- **Developer** - Initial work and development
-- **Contributors** - See [CONTRIBUTORS.md](CONTRIBUTORS.md)
-
----
-
-## 📞 Support & Contact
-
-For support, questions, or suggestions:
-
-- 📧 Email: support@sanjeevani.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/sanjeevani/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/sanjeevani/discussions)
+- **Anirudh Suryawanshi** - [MyGitHub](https://github.com/Anirudh-108/)
 
 ---
 
@@ -647,16 +588,6 @@ For support, questions, or suggestions:
 - Oracle Corporation for the robust database system
 - Apache Software Foundation for HttpClient and other libraries
 - NetBeans Community for the excellent IDE
-- All contributors and testers
-
----
-
-## 📊 Project Stats
-
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/sanjeevani)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/sanjeevani)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/sanjeevani?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/sanjeevani?style=social)
 
 ---
 
@@ -665,8 +596,6 @@ For support, questions, or suggestions:
 ### ⭐ Star this repository if you find it helpful!
 
 Made with ❤️ by the Sanjeevani Team
-
-[Report Bug](https://github.com/yourusername/sanjeevani/issues) · [Request Feature](https://github.com/yourusername/sanjeevani/issues) · [Documentation](https://github.com/yourusername/sanjeevani/wiki)
 
 </div>
 
